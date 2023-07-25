@@ -1,0 +1,10 @@
+* cl-emoji
+
+cl-emoji provides the Unicode emoji characters.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/asciian/cl-emoji.git   |
+| commit  | 6924d9a  |
+| systems | cl-emoji |
+|---------+-------------------------------------------|
+
